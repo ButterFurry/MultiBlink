@@ -28,8 +28,8 @@ pinout:
   # Outputs
   uo[0]: "OUT1"
   uo[1]: "OUT2"
-  uo[2]: "SIG1"
-  uo[3]: "SIG2"
+  uo[2]: ""
+  uo[3]: ""
   uo[4]: ""
   uo[5]: ""
   uo[6]: ""
